@@ -80,6 +80,15 @@
             "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
             "fileType": "EPUB",
             "downloadLink": "https://example.com/downloads/steve-jobs.epub"
+        },
+        {
+            "id": 10,
+            "title": "You",
+            "author": "Walter Isaacson",
+            "category": "Biography",
+            "cover": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+            "fileType": "EPUB",
+            "downloadLink": "https://example.com/downloads/steve-jobs.epub"
         }
     ]
 }
