@@ -116,6 +116,42 @@
             "cover": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_ML2_.jpg",
             "fileType": "PDF",
             "downloadLink": "https://example.com/downloads/cosmos.pdf"
-        }
+        },
+        {
+            "id": 14,
+            "title": "HakomSoft",
+            "author": "Abdelhakim Elmoumen",
+            "category": "Science",
+            "cover": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_ML2_.jpg",
+            "fileType": "PDF",
+            "downloadLink": "https://example.com/downloads/cosmos.pdf"
+        },
+        {
+            "id": 15,
+            "title": "HakomSoft",
+            "author": "Abdelhakim Elmoumen",
+            "category": "Science",
+            "cover": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_ML2_.jpg",
+            "fileType": "PDF",
+            "downloadLink": "https://example.com/downloads/cosmos.pdf"
+        },
+        {
+            "id": 16,
+            "title": "HakomSoft",
+            "author": "Abdelhakim Elmoumen",
+            "category": "Science",
+            "cover": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_ML2_.jpg",
+            "fileType": "PDF",
+            "downloadLink": "https://example.com/downloads/cosmos.pdf"
+        },
+        {
+            "id": 17,
+            "title": "HakomSoft",
+            "author": "Abdelhakim Elmoumen",
+            "category": "Science",
+            "cover": "https://m.media-amazon.com/images/I/51Hfv2MfNGL._SY445_SX342_ML2_.jpg",
+            "fileType": "PDF",
+            "downloadLink": "https://example.com/downloads/cosmos.pdf"
+        },
     ]
 }
